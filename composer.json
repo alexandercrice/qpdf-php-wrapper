@@ -1,9 +1,9 @@
 {
-    "name": "msmahon/qpdf-php-wrapper",
+    "name": "rton/qpdf-php-wrapper",
     "type": "library",
     "description": "A simple PHP wrapper for QPDF",
     "keywords": ["qpdf", "pdf"],
-    "homepage": "https://github.com/msmahon/qpdf-php-wrapper",
+    "homepage": "https://github.com/rton/qpdf-php-wrapper",
     "license": "MIT",
     "authors": [
         {
@@ -13,12 +13,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Msmahon\\QpdfPhpWrapper\\": "src/"
+            "Rton\\QpdfPhpWrapper\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Msmahon\\QpdfPhpWrapper\\Tests\\": "tests/"
+            "Rton\\QpdfPhpWrapper\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",

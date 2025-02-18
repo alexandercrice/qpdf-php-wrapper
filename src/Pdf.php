@@ -1,10 +1,10 @@
 <?php
 
-namespace Msmahon\QpdfPhpWrapper;
+namespace Rton\QpdfPhpWrapper;
 
 use Exception;
-use Msmahon\QpdfPhpWrapper\Enums\ExitCode;
-use Msmahon\QpdfPhpWrapper\Enums\Rotation;
+use Rton\QpdfPhpWrapper\Enums\ExitCode;
+use Rton\QpdfPhpWrapper\Enums\Rotation;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
 
