@@ -2,4 +2,4 @@
 
 require_once 'vendor/autoload.php';
 
-$class = new \Msmahon\QpdfPhpWrapper\Pdf();
+$class = new \Rton\QpdfPhpWrapper\Pdf();

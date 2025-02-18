@@ -1,6 +1,6 @@
 <?php
 
-namespace Msmahon\QpdfPhpWrapper\Enums;
+namespace Rton\QpdfPhpWrapper\Enums;
 
 use InvalidArgumentException;
 
